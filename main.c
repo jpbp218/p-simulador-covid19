@@ -1,8 +1,6 @@
 /* 
  * File:   main.c
  * Author: João Pedro
- * Número de Aluno: 2019140339
- * e-mail: a2019140339@isec.pt
  * Created on 4 de maio de 2020, 22:51
  */
 
